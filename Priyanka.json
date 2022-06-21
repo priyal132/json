@@ -1,17 +1,16 @@
 [
     {
-        "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
+        "reference_id": "",
         "first_name": "",
         "last_name": "",
         "gender": "",
         "dob": "",
-        "father_mother_name": " ",
-        "cibil_score":  "        ",
-        "employee_id": 29593713569183,
+        "father_mother_name": "",
+        "cibil_score":  "",
+        "employee_id": "",
         "email": "",
         "mobile_number": "",
-        "esi_no": "0",
-        "uan": 34724682,
+   
         "employee_aadhaar": "" ,
         "pan_card": " ",
         "bank_details": {
@@ -27,24 +26,16 @@
         "net_deductions": "" ,
         "net_pay":  "",
         "rupyo_credit_limit": "",
-        
-        "advance_given": "$7.20",
         "address": {
-            "address_1": " ",
-            "address_2": " ",
-            "pincode": ,
+            "address_1": "",
+            "address_2": "",
+            "pincode": "",
             "city": "",
-            "district": " ",
-            "state": " ",
-            "country": " "
+            "district": "",
+            "state": "",
+            "country": ""
         },
-        "role_id": 3,
-        "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-        "company_id": "60a399be0b687912364497c9",
-        "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-        "work_shift": "60a399be0b687912364497c9",
-        "credit_limit_type": ,
-        "credit_limit_percent": 
+     
     },
 
 
@@ -56,45 +47,43 @@
     "gender": "        ",
     "dob": "         ",
     "father_mother_name": "      ",
-    "cibil_score":  ,    
-    "employee_id": 29593713569183,
+    "cibil_score":  "",    
+    "employee_id": "29593713569183",
     "email": "     ",
     "mobile_number": "       ",
     "esi_no": "0",
-    "uan": 34724682,
-    "employee_aadhaar":  ,
+    "employee_aadhaar": "" ,
     "pan_card": "             ",
     "bank_details": {
         "bank_name": "              ",
-        "account_number": ,
+        "account_number": "",
         "ifsc_code": "               ",
         "branch_name": "             ",
         "bank_account_type": "       ",
         "name_in_bank": "                  "
     },
-    "basic_pay": ,
-    "additions": ,
-    "net_deductions":  ,
-    "net_pay":  ,
-    "rupyo_credit_limit": ,
+    "basic_pay": "",
+    "additions": "",
+    "net_deductions":  "",
+    "net_pay":  "",
+    "rupyo_credit_limit": "",
     
-    "advance_given": "$7.20",
+    "advance_given": "",
     "address": {
         "address_1": "             ",
         "address_2": "             ",
-        "pincode": ,
+        "pincode": "     ",
         "city": "                  ",
         "district": "               ",
         "state": "                  ",
         "country": "                 "
     },
-    "role_id": 3,
-    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-    "company_id": "60a399be0b687912364497c9",
+   
+    "company_id": "",
     "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
     "work_shift": "60a399be0b687912364497c9",
-    "credit_limit_type": ,
-    "credit_limit_percent": 
+    "credit_limit_type": "",
+    "credit_limit_percent": "",
 },
 
  {
@@ -139,7 +128,7 @@
             "role_id": 3,
             "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
             "company_id": "60a399be0b687912364497c9",
-            "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
+            "api_access_key": "",
             "work_shift": "60a399be0b687912364497c9",
             "credit_limit_type": 1,
             "credit_limit_percent":7 
