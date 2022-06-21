@@ -48,7 +48,7 @@
     },
 
 
-]
+
 {
     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
     "first_name": "            ",
@@ -338,11 +338,6 @@
                             "credit_limit_type": 2,
                             "credit_limit_percent":8,
 
-
-
-
-
-
                         },
                              
                                 {
@@ -496,4 +491,5 @@
                                     "credit_limit_percent":10,
         
                                   
-                                },
+                                }
+]
