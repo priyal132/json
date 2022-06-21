@@ -83,7 +83,7 @@
     "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
     "work_shift": "60a399be0b687912364497c9",
     "credit_limit_type": "",
-    "credit_limit_percent": "",
+    "credit_limit_percent": ""
 },
 
  {
@@ -225,10 +225,7 @@
                     "role_id": 3,
                     "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
                     "company_id": "60a399be0b687912364497c9",
-                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                    "work_shift": "60a399be0b687912364497c9",
-                    "credit_limit_type": 2,
-                    "credit_limit_percent":8,
+                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs"
                 },
     
              
@@ -322,10 +319,10 @@
                             "role_id": 3,
                             "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
                             "company_id": "60a399be0b687912364497c9",
-                            "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
+                            "api_access_key": "",
                             "work_shift": "60a399be0b687912364497c9",
                             "credit_limit_type": 2,
-                            "credit_limit_percent":8,
+                            "credit_limit_percent":8
 
                         },
                              
@@ -368,13 +365,7 @@
                                         "state": " mp",
                                         "country": " "
                                     },
-                                    "role_id": 3,
-                                    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-                                    "company_id": "60a399be0b687912364497c9",
-                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                                    "work_shift": "60a399be0b687912364497c9",
-                                    "credit_limit_type": 2,
-                                    "credit_limit_percent":8,
+                 
         
                                   
                                 },
@@ -425,7 +416,7 @@
                                     "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
                                     "work_shift": "60a399be0b687912364497c9",
                                     "credit_limit_type": 2,
-                                    "credit_limit_percent":9,
+                                    "credit_limit_percent":9
         
                                   
                                 },
@@ -471,13 +462,10 @@
                                         "state": " up",
                                         "country": " "
                                     },
-                                    "role_id": 3,
-                                    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-                                    "company_id": "60a399be0b687912364497c9",
-                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
+                                   
                                     "work_shift": "60a399be0b687912364497c9",
                                     "credit_limit_type": 1,
-                                    "credit_limit_percent":10,
+                                    "credit_limit_percent":10
         
                                   
                                 }
