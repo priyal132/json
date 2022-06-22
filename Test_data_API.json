@@ -2,25 +2,25 @@
    
                                 {
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
-                                    "first_name": "SOme field blank",
-                                    "last_name": "VISHWAKARMA",
-                                    "gender": "",
+                                    "first_name": "Test1",
+                                    "last_name": "API",
+                                    "gender": "F",
                                     "dob": "18-06-1995",
                                     "father_mother_name": "SURENDRA VISHWAKARMA",
                                     "cibil_score": 810 ,
                                     "employee_id": 29593713569183,
                                     "email": "somyavishwakarma@gmail.com",
-                                    "mobile_number": "",
+                                    "mobile_number": "9222222290",
                                     "esi_no": "0",
                                     "uan": 34724682,
-                                    "employee_aadhaar": 397910056528 ,
-                                    "pan_card": "AVAPV8812C",
+                                    "employee_aadhaar": 397910056528,
+                                    "pan_card": "AWGPL5809L",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
                                         "account_number": 652163666005896,
-                                        "ifsc_code": "UBIN0566608 ",
-                                        "branch_name": "ADHARTAL ",
-                                        "bank_account_type": "",
+                                        "ifsc_code": "UBIN0566608",
+                                        "branch_name": "ADHARTAL",
+                                        "bank_account_type": "O",
                                         "name_in_bank": "SOMYA"
                                     },
                                     "basic_pay":60000,
@@ -30,44 +30,41 @@
                                     "rupyo_credit_limit": 15000,
                                     "advance_given": "$7.20",
                                     "address": {
-                                        "address_1": " jai prakash nagar",
+                                        "address_1": "jai prakash nagar",
                                         "address_2": "",
                                         "pincode": 482004,
                                         "city": "JABALPUR",
-                                        "district": "JABALPUR ",
-                                        "state": " mp",
-                                        "country": " "
+                                        "district": "JABALPUR",
+                                        "state": "mp",
+                                        "country": "Test"
                                     },
-                                    "role_id": 3,
-                                    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-                                    "company_id": "60a399be0b687912364497c9",
+                                   
                                     "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                                    "work_shift": "60a399be0b687912364497c9",
-                                    "credit_limit_type": 2,
-                                    "credit_limit_percent":8
+                                    "work_shift": "60a399be0b687912364497c9"
+                                    
                                 },
 
                                 {
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
-                                    "first_name": "invalid mobile  number ",
-                                    "last_name": "VISHWAKARMA",
+                                    "first_name": "Test2",
+                                    "last_name": "employee",
                                     "gender": "1",
                                     "dob": "18-06-1995",
                                     "father_mother_name": "SURENDRA VISHWAKARMA",
                                     "cibil_score": 810 ,
                                     "employee_id": 29593713569183,
-                                    "email": "somyavishwakarma@gmail.com",
-                                    "mobile_number": "958933",
+                                    "email": "somyavishwakarma@yopmail.com",
+                                    "mobile_number": "9589330000",
                                     "esi_no": "0",
                                     "uan": 34724682,
-                                    "employee_aadhaar": 3979100565 ,
-                                    "pan_card": "AVAPV881",
+                                    "employee_aadhaar": 39791005653 ,
+                                    "pan_card": "AWGPL5809L",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
                                         "account_number": 6521636660058,
-                                        "ifsc_code": "UBIN0566608 ",
-                                        "branch_name": "ADHARTAL ",
-                                        "bank_account_type": "",
+                                        "ifsc_code": "UBIN0566608",
+                                        "branch_name": "ADHARTAL",
+                                        "bank_account_type": "O",
                                         "name_in_bank": "SOMYA"
                                     },
                                     "basic_pay":60000,
@@ -81,42 +78,38 @@
                                         "address_2": "",
                                         "pincode": 48204,
                                         "city": "JABALPUR",
-                                        "district": "JABALPUR ",
+                                        "district": "JABALPUR",
                                         "state": " mp",
-                                        "country": "i "
+                                        "country": "irrfd"
                                     },
-                                    "role_id": 3,
-                                    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-                                    "company_id": "60a399be0b687912364497c9",
-                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                                    "work_shift": "60a399be0b687912364497c9",
-                                    "credit_limit_type": 2,
-                                    "credit_limit_percent":9
+                         
+                                    "api_access_key": "tIp44hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs"
+                                    
                                 },
 
 
 
                                 {
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
-                                    "first_name": " invalid data ",
-                                    "last_name": "VISHWAK@RM@",
+                                    "first_name": "Test3",
+                                    "last_name": "employee",
                                     "gender": "1",
                                     "dob": "00-01-0000",
                                     "father_mother_name": "SURENDRA VISHWAKA@MA",
                                     "cibil_score": 810 ,
                                     "employee_id": 29593713569183,
-                                    "email": "somyavishwakarma@gmail.com",
-                                    "mobile_number": "99077565",
+                                    "email": "somyavishwakarma1@yopmail.com",
+                                    "mobile_number": "9907756500",
                                     "esi_no": "0",
                                     "uan": 34724682,
                                     "employee_aadhaar": 3979100565 ,
-                                    "pan_card": "AVAPV8810",
+                                    "pan_card": "AWGPL5809L",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
                                         "account_number": 6521636660058,
-                                        "ifsc_code": "UBIN0566608 ",
-                                        "branch_name": "ADHARTAL ",
-                                        "bank_account_type": "",
+                                        "ifsc_code": "UBIN0566608",
+                                        "branch_name": "ADHARTAL",
+                                        "bank_account_type": "S",
                                         "name_in_bank": "Sanya"
                                     },
                                     "basic_pay":60000,
@@ -130,9 +123,9 @@
                                         "address_2": "",
                                         "pincode": 4824,
                                         "city": "JABALPUR",
-                                        "district": "indore ",
-                                        "state": " up",
-                                        "country": " "
+                                        "district": "indore",
+                                        "state": "up",
+                                        "country": "test"
                                     },
                                     "role_id": 3,
                                     "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
