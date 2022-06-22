@@ -39,8 +39,7 @@
                                         "country": "Test"
                                     },
                                    
-                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                                    "work_shift": "60a399be0b687912364497c9"
+                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs"
                                     
                                 },
 
@@ -48,7 +47,7 @@
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
                                     "first_name": "Test2",
                                     "last_name": "employee",
-                                    "gender": "1",
+                                    "gender": "F",
                                     "dob": "18-06-1995",
                                     "father_mother_name": "SURENDRA VISHWAKARMA",
                                     "cibil_score": 810 ,
@@ -57,7 +56,7 @@
                                     "mobile_number": "9589330000",
                                     "esi_no": "0",
                                     "uan": 34724682,
-                                    "employee_aadhaar": 39791005653 ,
+                                    "employee_aadhaar": "397910056536",
                                     "pan_card": "AWGPL5809L",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
@@ -83,7 +82,7 @@
                                         "country": "irrfd"
                                     },
                          
-                                    "api_access_key": "tIp44hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs"
+                                    "api_access_key": "tIp44hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFA L0ZKZ1wUjvUsUDs"
                                     
                                 },
 
@@ -93,8 +92,8 @@
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
                                     "first_name": "Test3",
                                     "last_name": "employee",
-                                    "gender": "1",
-                                    "dob": "00-01-0000",
+                                    "gender": "M",
+                                    "dob": "08-01-1998",
                                     "father_mother_name": "SURENDRA VISHWAKA@MA",
                                     "cibil_score": 810 ,
                                     "employee_id": 29593713569183,
@@ -102,7 +101,7 @@
                                     "mobile_number": "9907756500",
                                     "esi_no": "0",
                                     "uan": 34724682,
-                                    "employee_aadhaar": 3979100565 ,
+                                    "employee_aadhaar": "999999999999",
                                     "pan_card": "AWGPL5809L",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
@@ -127,12 +126,8 @@
                                         "state": "up",
                                         "country": "test"
                                     },
-                                    "role_id": 3,
-                                    "selfie": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
-                                    "company_id": "60a399be0b687912364497c9",
-                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs",
-                                    "work_shift": "60a399be0b687912364497c9",
-                                    "credit_limit_type": 1,
-                                    "credit_limit_percent":10
+                                    
+                                    "api_access_key": "tIps4hfyZx62hmiEYAXRlzBcPYTNULYtGprCChallWBDhHD8XanSgyUc11MzhekA6NJB9NZKTMBMDEcFc8aFAL0ZKZ1wUjvUsUDs"
+                                    
                                 }
                             ]
