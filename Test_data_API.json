@@ -107,7 +107,7 @@
                                     "basic_pay":60000,
                                     "additions": 1500,
                                     "net_deductions":  13.7,
-                                    "net_pay":  10,
+                                    "net_pay":  10000,
                                     "rupyo_credit_limit": 15000,
                                     "advance_given": "$7.20",
                                     "address": {
@@ -152,7 +152,7 @@
                                     "basic_pay":60000,
                                     "additions": 1500,
                                     "net_deductions":  13.7,
-                                    "net_pay":  10,
+                                    "net_pay":  30000,
                                     "rupyo_credit_limit": 15000,
                                     "advance_given": "$7.20",
                                     "address": {
