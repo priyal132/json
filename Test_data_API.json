@@ -16,7 +16,7 @@
                                     "pan_card": "",
                                     "bank_details": {
                                         "bank_name": "UNION BANK",
-                                        "account_number": ,
+                                        "account_number": 0,
                                         "ifsc_code": "",
                                         "branch_name": "",
                                         "bank_account_type": "O",
