@@ -4,31 +4,31 @@
                                     "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
                                     "first_name": "test1",
                                     "last_name": "employee",
-                                    "gender": "i",
-                                    "dob": "00-01-0000",
+                                    "gender": "M",
+                                    "dob": "01-01-2001",
                                     "father_mother_name": "      ",
                                     "cibil_score": 0 ,
                                     "employee_id": 0,
-                                    "email": "somyavishwakarma@yopmail.com",
-                                    "mobile_number": 9222222290,
+                                    "email": "z@yopmail.com",
+                                    "mobile_number": 1000000000,
                                     
                                     "employee_aadhaar": 7910056528,
-                                    "pan_card": "",
+                                    "pan_card": "A",
                                     "bank_details": {
-                                        "bank_name": "",
+                                        "bank_name": "test",
                                         "account_number": 0,
-                                        "ifsc_code": "",
-                                        "branch_name": "",
+                                        "ifsc_code": "k",
+                                        "branch_name": "tb",
                                         "bank_account_type": "O",
-                                        "name_in_bank": ""
+                                        "name_in_bank": "test"
                                     },
                                     "basic_pay":60000,
                                     "additions": 1500,
                                     "net_deductions": 1000,
-                                    "net_pay":  10,
+                                    "net_pay":  20000,
            
                                     "address": {
-                                        "address_1": "jai prakash nagar",
+                                        "address_1": "jai",
                                         "address_2": "",
                                         "pincode": 482004,
                                         "city": "JABALPUR",
@@ -37,7 +37,47 @@
                                         "country": "Test"
                                     },
                                    
-                                    "api_access_key": ""
+                                    "api_access_key": "d"
+                                    
+                                },
+{
+                                    "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
+                                    "first_name": "test1",
+                                    "last_name": "employee",
+                                    "gender": "M",
+                                    "dob": "01-01-2001",
+                                    "father_mother_name": "      ",
+                                    "cibil_score": 0 ,
+                                    "employee_id": 0,
+                                    "email": "6@yopmail.com",
+                                    "mobile_number": 1000000000,
+                                    
+                                    "employee_aadhaar": 33910056528,
+                                    "pan_card": "A",
+                                    "bank_details": {
+                                        "bank_name": "test",
+                                        "account_number": 0,
+                                        "ifsc_code": "k",
+                                        "branch_name": "tb",
+                                        "bank_account_type": "O",
+                                        "name_in_bank": "test"
+                                    },
+                                    "basic_pay":60000,
+                                    "additions": 1500,
+                                    "net_deductions": 1000,
+                                    "net_pay":  20000,
+           
+                                    "address": {
+                                        "address_1": "jai",
+                                        "address_2": "",
+                                        "pincode": 482004,
+                                        "city": "JABALPUR",
+                                        "district": "JABALPUR",
+                                        "state": "mp",
+                                        "country": "Test"
+                                    },
+                                   
+                                    "api_access_key": "d"
                                     
                                 },
 
