@@ -1,10 +1,11 @@
 [
+   
     {
-        "first_name": "Active status",
-        "last_name": "Test",
+        "first_name": "status",
+        "last_name": "update Active into inactive",
         "gender": "F",
         "dob": "1998-10-10",
-        "status": 1,
+        "status": 2,
         "father_mother_name": "test",
         "cibil_score": 0,
         "employee_id": 1111111111,
@@ -35,11 +36,11 @@
         }
     },
     {
-        "first_name": "Active Status",
-        "last_name": "test",
+        "first_name": "update Status",
+        "last_name": "active into pause",
         "gender": "F",
-        "dob": "1998-10-105",
-        "status": 1,
+        "dob": "1998-10-10",
+        "status": 3,
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
         "employee_id": 29593713569183,
@@ -75,11 +76,11 @@
     },
 
     {
-        "first_name": "Active",
-        "last_name": "Test",
+        "first_name": "Active into archive",
+        "last_name": "update",
         "gender": "F",
         "dob": "1998-10-10",
-        "status": 1,
+        "status": 4,
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
         "employee_id": 29593713569183,
@@ -117,7 +118,7 @@
 
     {
        
-        "first_name": "Active",
+        "first_name": "fname change",
         "last_name": "Test",
         "gender": "F",
         "dob": "1998-10-10",
@@ -155,8 +156,8 @@
             "country": "irrfd"
         }    },
     {
-        "first_name": "inactive",
-        "last_name": "Test",
+        "first_name": "lname",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 2,
@@ -195,9 +196,9 @@
         }
     },
     {
-        "first_name": "inactive",
-        "last_name": "test",
-        "gender": "F",
+        "first_name": "gender",
+        "last_name": "change",
+        "gender": "G",
         "dob": "1998-10-10",
         "status": 2,
 
@@ -236,10 +237,10 @@
     },
     {
         
-        "first_name": "inactive",
-        "last_name": "Test",
+        "first_name": "DOB1998 to 1999",
+        "last_name": "change",
         "gender": "F",
-        "dob": "1998-10-10",
+        "dob": "1999-10-10",
         "status": 2,
 
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -276,13 +277,13 @@
         }
     },
     {
-        "first_name": "deactive",
-        "last_name": "Test",
+        "first_name": "fname",
+        "last_name": "change ",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 3,
 
-        "father_mother_name": "SURENDRA VISHWAKARMA",
+        "father_mother_name": "fname change",
         "cibil_score": 810,
         "employee_id": 29593713569183,
         "email": "sc8@yopmail.com",
@@ -316,14 +317,14 @@
         }
     },
     {
-        "first_name": "deactive",
-        "last_name": "Test",
+        "first_name": "cibil",
+        "last_name": "change810 to 20",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 3,
 
         "father_mother_name": "SURENDRA VISHWAKARMA",
-        "cibil_score": 810,
+        "cibil_score": 10,
         "employee_id": 29593713569183,
         "email": "sc9@yopmail.com",
         "mobile_number": 9022222197,
@@ -357,8 +358,8 @@
     },
     
     {
-        "first_name": "bank name",
-        "last_name": "Test",
+        "first_name": "bank details",
+        "last_name": "all into test and 2",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 3,
@@ -372,12 +373,12 @@
         "employee_aadhaar": 397910056536,
         "pan_card": "AWPGL5812L",
         "bank_details": {
-            "bank_name": "Test",
-            "account_number": 6521636660058,
-            "ifsc_code": "UBIN0566608",
-            "branch_name": "ADHARTAL",
-            "bank_account_type": "O",
-            "name_in_bank": "SOMYA"
+            "bank_name": "Tests",
+            "account_number": 2222222222222,
+            "ifsc_code": "UBIN0511128",
+            "branch_name": "test",
+            "bank_account_type": "S",
+            "name_in_bank": "test"
         },
         "basic_pay": 60000,
         "additions": 1500,
@@ -396,8 +397,8 @@
         }
     },
     {
-        "first_name": "correct1",
-        "last_name": "Test",
+        "first_name": "address",
+        "last_name": "into test",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -424,18 +425,18 @@
         "rupyo_credit_limit": 15000,
         "advance_given": "0",
         "address": {
-            "address_1": "jai prakash nagar",
-            "address_2": "",
-            "pincode": 448204,
-            "city": "JABALPUR",
-            "district": "JABALPUR",
-            "state": "mp",
-            "country": "irrfd"
+            "address_1": "test",
+            "address_2": "test",
+            "pincode": 222222,
+            "city": "test",
+            "district": "test",
+            "state": "test",
+            "country": "test"
         }
     },
     {
-        "first_name": "correct2",
-        "last_name": "Test",
+        "first_name": "mobile change",
+        "last_name": "into 2",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -443,7 +444,7 @@
         "status": 3,
         "employee_id": 29593713569183,
         "email": "sd2@yopmail.com",
-        "mobile_number": 9022222110,
+        "mobile_number": 2222222222,
         "esi_no": "0",
         "uan": 34724682,
         "employee_aadhaar": 397910056536,
@@ -473,8 +474,8 @@
         }
     },
     {
-        "first_name": "branch",
-        "last_name": "Test",
+        "first_name": "salary",
+        "last_name": "change into2",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -494,12 +495,12 @@
             "bank_account_type": "O",
             "name_in_bank": "SOMYA"
         },
-        "basic_pay": 60000,
-        "additions": 1500,
-        "net_deductions": 20,
-        "net_pay": 30000,
-        "rupyo_credit_limit": 15000,
-        "advance_given": "0",
+        "basic_pay": 222222,
+        "additions": 222,
+        "net_deductions": 2222,
+        "net_pay": 222222,
+        "rupyo_credit_limit": 222,
+        "advance_given": "22",
         "address": {
             "address_1": "jai prakash nagar",
             "address_2": "",
@@ -511,8 +512,8 @@
         }
     },
     {
-        "first_name": "acc type",
-        "last_name": "Test",
+        "first_name": "aadhar",
+        "last_name": "change into3",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -522,7 +523,7 @@
         "mobile_number": 9022222112,
         "esi_no": "0",
         "uan": 34724682,
-        "employee_aadhaar": 397910056536,
+        "employee_aadhaar": 333333333333,
         "pan_card": "AWPGL5815L",
         "bank_details": {
             "bank_name": "UNION BANK",
@@ -549,7 +550,7 @@
         }
     },
     {
-        "first_name": "name in bank",
+        "first_name": "PAN change",
         "last_name": "Test",
         "gender": "F",
         "dob": "1998-10-10",
@@ -561,7 +562,7 @@
         "esi_no": "0",
         "uan": 34724682,
         "employee_aadhaar": 397910056536,
-        "pan_card": "AWPGL5816L",
+        "pan_card": "DMHPK4260C",
         "bank_details": {
             "bank_name": "UNION BANK",
             "account_number": 6521636660058,
