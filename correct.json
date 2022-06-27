@@ -1,11 +1,11 @@
   [
    
     {
-        "first_name": "status",
+        "first_name": "data incorrect",
         "last_name": "inactive into activew",
-        "gender": "F",
+        "gender": "5",
         "dob": "1998-10-10",
-        "status": 1,
+        "status": f,
         "father_mother_name": "change",
         "cibil_score": 0,
         "employee_id": 1111111111,
