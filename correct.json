@@ -1,12 +1,12 @@
-  [
+[
    
     {
-        "first_name": "data incorrect",
-        "last_name": "inactive into activew",
-        "gender": "5",
+        "first_name": "updat27_1",
+        "last_name": "status&FMname",
+        "gender": "F",
         "dob": "1998-10-10",
-        "status": 1,
-        "father_mother_name": "$#$#@",
+        "status": 2,
+        "father_mother_name": "test",
         "cibil_score": 0,
         "employee_id": 1111111111,
         "email": "sc1@yopmail.com",
@@ -36,11 +36,11 @@
         }
     },
     {
-        "first_name": "Status",
-        "last_name": "pause into active",
+        "first_name": "updat27_2",
+        "last_name": "status into pause",
         "gender": "F",
         "dob": "1998-10-10",
-        "status": 1,
+        "status": 3,
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
         "employee_id": 29593713569183,
@@ -76,9 +76,9 @@
     },
 
     {
-        "first_name": "archive into active",
-        "last_name": "update",
-        "gender": "F",
+        "first_name": "updat27_3",
+        "last_name": "gender",
+        "gender": "O",
         "dob": "1998-10-10",
         "status": 1,
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -118,10 +118,10 @@
 
     {
        
-        "first_name": "fname change",
-        "last_name": "priya",
+        "first_name": "updat27_4",
+        "last_name": "DOB",
         "gender": "F",
-        "dob": "1998-10-10",
+        "dob": "1998-01-21",
         "status": 1,
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
@@ -156,8 +156,8 @@
             "country": "irrfd"
         }    },
     {
-        "first_name": "lname change",
-        "last_name": "mandloi",
+        "first_name": "updat27_5",
+        "last_name": "email into test2706",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -165,7 +165,7 @@
         "father_mother_name": "change",
         "cibil_score": 810,
         "employee_id": 29593713569183,
-        "email": "sc5@yopmail.com",
+        "email": "test27/06@yopmail.com",
         "mobile_number": 9022222194,
         "esi_no": "0",
         "uan": 34724682,
@@ -196,49 +196,49 @@
         }
     },
     {
-        "first_name": "gender",
-        "last_name": "change",
-        "gender": "F",
-        "dob": "1998-10-10",
+        "first_name": "updat27_6",
+        "last_name": "All data",
+        "gender": "O",
+        "dob": "2000-10-10",
         "status": 2,
 
-        "father_mother_name": "SURENDRA VISHWAKARMA",
-        "cibil_score": 5656,
+        "father_mother_name": "test test",
+        "cibil_score": 1000,
         "employee_id": 29593713569183,
-        "email": "sc6@yopmail.com",
+        "email": "sc6666666@yopmail.com",
         "mobile_number": 9022222195,
         "esi_no": "0",
         "uan": 34724682,
-        "employee_aadhaar": 397910056536,
-        "pan_card": "AWPGL5806L",
+        "employee_aadhaar": 300000000006,
+        "pan_card": "AWPGL1234L",
         "bank_details": {
-            "bank_name": "UNION BANK",
-            "account_number": 6521636660058,
-            "ifsc_code": "UBIN0566608",
-            "branch_name": "ADHARTAL",
+            "bank_name": "ICIICI BANK",
+            "account_number": 60000000000008,
+            "ifsc_code": "UBIN0123456",
+            "branch_name": "INDORE",
             "bank_account_type": "O",
-            "name_in_bank": "SOMYA"
+            "name_in_bank": "Test"
         },
-        "basic_pay": 60000,
-        "additions": 1500,
-        "net_deductions": 20,
-        "net_pay": 30000,
-        "rupyo_credit_limit": 15000,
+        "basic_pay": 1000000000,
+        "additions": 10000000,
+        "net_deductions": 200000,
+        "net_pay": 20000000000,
+        "rupyo_credit_limit": 120000,
         "advance_given": "0",
         "address": {
-            "address_1": "jai prakash nagar",
-            "address_2": "",
-            "pincode": 448204,
-            "city": "JABALPUR",
-            "district": "JABALPUR",
-            "state": "mp",
-            "country": "irrfd"
+            "address_1": "Test",
+            "address_2": "test",
+            "pincode": 989898,
+            "city": "Test",
+            "district": "Test",
+            "state": "Test",
+            "country": "Test"
         }
     },
     {
         
-        "first_name": "DOB",
-        "last_name": "change",
+        "first_name": "updat27_7",
+        "last_name": "mobile",
         "gender": "F",
         "dob": "1999-10-10",
         "status": 1,
@@ -247,7 +247,7 @@
         "cibil_score": 810,
         "employee_id": 29593713569183,
         "email": "sc7@yopmail.com",
-        "mobile_number": 9999000078,
+        "mobile_number": 9900000128,
         "esi_no": "0",
         "uan": 34724682,
         "employee_aadhaar": 397910056536,
@@ -277,8 +277,8 @@
         }
     },
     {
-        "first_name": "fmname",
-        "last_name": "change ",
+        "first_name": "updat27_8",
+        "last_name": "adhar",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -290,7 +290,7 @@
         "mobile_number": 9022222196,
         "esi_no": "0",
         "uan": 34724682,
-        "employee_aadhaar": 212212202222,
+        "employee_aadhaar": 200000000002,
         "pan_card": "AWPGL5810L",
         "bank_details": {
             "bank_name": "UNION BANK",
@@ -317,8 +317,8 @@
         }
     },
     {
-        "first_name": "cibil",
-        "last_name": "change810 to 210",
+        "first_name": "updat27_9",
+        "last_name": "PAN",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -331,7 +331,7 @@
         "esi_no": "0",
         "uan": 34724682,
         "employee_aadhaar": 555555555545,
-        "pan_card": "AWGPL5811L",
+        "pan_card": "DMHPK1234C",
         "bank_details": {
             "bank_name": "UNION BANK",
             "account_number": 6521636660058,
@@ -358,8 +358,8 @@
     },
     
     {
-        "first_name": "bank details",
-        "last_name": "all into change and 2",
+        "first_name": "updat27_10",
+        "last_name": "bank",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -373,12 +373,12 @@
         "employee_aadhaar": 397910056536,
         "pan_card": "AWPGL5812L",
         "bank_details": {
-            "bank_name": "changes",
-            "account_number": 2222222222222,
-            "ifsc_code": "UBIN0511128",
-            "branch_name": "change",
-            "bank_account_type": "S",
-            "name_in_bank": "change"
+            "bank_name": "Test change",
+            "account_number": 12121212121212,
+            "ifsc_code": "UBIN0654321",
+            "branch_name": "Test change",
+            "bank_account_type": "C",
+            "name_in_bank": "Test change"
         },
         "basic_pay": 60000,
         "additions": 1500,
@@ -397,8 +397,8 @@
         }
     },
     {
-        "first_name": "address",
-        "last_name": "into change",
+        "first_name": "updat27_11",
+        "last_name": "address",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -436,7 +436,7 @@
         }
     },
     {
-        "first_name": "mobile change",
+        "first_name": "updat27_12",
         "last_name": "into 2",
         "gender": "F",
         "dob": "1998-10-10",
@@ -475,7 +475,7 @@
         }
     },
     {
-        "first_name": "salary",
+        "first_name": "updat27_13",
         "last_name": "change into2",
         "gender": "F",
         "dob": "1998-10-10",
@@ -514,7 +514,7 @@
         }
     },
     {
-        "first_name": "aadhar",
+        "first_name": "updat27_14",
         "last_name": "change into4",
         "gender": "F",
        "status": 1,
@@ -553,7 +553,7 @@
         }
     },
     {
-        "first_name": "PAN change",
+        "first_name": "updat27_15",
         "last_name": "change",
         "gender": "F",
        "status": 1,
@@ -592,7 +592,7 @@
         }
     },
     {
-        "first_name": "basic pay",
+        "first_name": "updat27_16",
         "last_name": "change",
         "gender": "F",
        "status": 1,
@@ -631,7 +631,7 @@
         }
     },
     {
-        "first_name": "addtions",
+        "first_name": "updat27_17",
         "last_name": "change",
        "status": 1,
         "gender": "F",
@@ -671,7 +671,7 @@
         }
     },
     {
-        "first_name": "deductions",
+        "first_name": "updat27_18",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -711,7 +711,7 @@
     },
     {
       
-        "first_name": "net pay",
+        "first_name": "updat27_19",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -750,7 +750,7 @@
         }
     },
     {
-        "first_name": "credit limit",
+        "first_name": "updat27_20",
         "last_name": "change into 100",
         "gender": "F",
         "dob": "1998-10-10",
@@ -790,7 +790,7 @@
         }
     },
     {
-        "first_name": "status",
+        "first_name": "updat27_21",
         "last_name": "into pause",
         "gender": "F",
         "status": 3,
@@ -830,7 +830,7 @@
         }
     },
     {
-        "first_name": "city",
+        "first_name": "updat27_22",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -868,7 +868,7 @@
         }
     },
     {
-        "first_name": "state",
+        "first_name": "updat27_23",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -906,7 +906,7 @@
         }
     },
     {
-        "first_name": "district",
+        "first_name": "updat27_24",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -944,7 +944,7 @@
         }
     },
     {
-        "first_name": "country",
+        "first_name": "updat27_25",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -982,7 +982,7 @@
         }
     },
     {
-        "first_name": "email",
+        "first_name": "updat27_26",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -1021,7 +1021,7 @@
         }
     },
     {
-        "first_name": "email",
+        "first_name": "updat27_27",
         "last_name": "update",
         "gender": "F",
        "status": 1,
@@ -1060,7 +1060,7 @@
         }
     },
     {
-        "first_name": "number",
+        "first_name": "updat27_28",
         "last_name": "change",
         "gender": "F",
        "status": 1,
@@ -1099,7 +1099,7 @@
         }
     },
     {
-        "first_name": "Same number",
+        "first_name": "updat27_29",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -1138,7 +1138,7 @@
         }
     },
     {
-        "first_name": "bank name",
+        "first_name": "updat27_30",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -1177,7 +1177,7 @@
         }
     },
     {
-        "first_name": "account number",
+        "first_name": "updat27_31",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
@@ -1218,7 +1218,7 @@
        
     },
     {
-        "first_name": "branch",
+        "first_name": "updat27_31",
         "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
