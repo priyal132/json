@@ -1,4 +1,4 @@
-[
+ [
    
     {
         "first_name": "status",
@@ -6,7 +6,7 @@
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
-        "father_mother_name": "test",
+        "father_mother_name": "change",
         "cibil_score": 0,
         "employee_id": 1111111111,
         "email": "sc1@yopmail.com",
@@ -32,7 +32,7 @@
             "city": "JABALPUR",
             "district": "JABALPUR",
             "state": "mp",
-            "country": "Test"
+            "country": "change"
         }
     },
     {
@@ -118,7 +118,7 @@
 
     {
        
-        "first_name": "fname test",
+        "first_name": "fname change",
         "last_name": "priya",
         "gender": "F",
         "dob": "1998-10-10",
@@ -156,13 +156,13 @@
             "country": "irrfd"
         }    },
     {
-        "first_name": "lname test",
+        "first_name": "lname change",
         "last_name": "mandloi",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
 
-        "father_mother_name": "test",
+        "father_mother_name": "change",
         "cibil_score": 810,
         "employee_id": 29593713569183,
         "email": "sc5@yopmail.com",
@@ -197,7 +197,7 @@
     },
     {
         "first_name": "gender",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 2,
@@ -238,7 +238,7 @@
     {
         
         "first_name": "DOB",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1999-10-10",
         "status": 1,
@@ -278,12 +278,12 @@
     },
     {
         "first_name": "fmname",
-        "last_name": "test ",
+        "last_name": "change ",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
 
-        "father_mother_name": "fmname test",
+        "father_mother_name": "fmname change",
         "cibil_score": 810,
         "employee_id": 29593713569183,
         "email": "sc8@yopmail.com",
@@ -318,7 +318,7 @@
     },
     {
         "first_name": "cibil",
-        "last_name": "test810 to 210",
+        "last_name": "change810 to 210",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -359,7 +359,7 @@
     
     {
         "first_name": "bank details",
-        "last_name": "all into test and 2",
+        "last_name": "all into change and 2",
         "gender": "F",
         "dob": "1998-10-10",
         "status": 1,
@@ -373,12 +373,12 @@
         "employee_aadhaar": 397910056536,
         "pan_card": "AWPGL5812L",
         "bank_details": {
-            "bank_name": "Tests",
+            "bank_name": "changes",
             "account_number": 2222222222222,
             "ifsc_code": "UBIN0511128",
-            "branch_name": "test",
+            "branch_name": "change",
             "bank_account_type": "S",
-            "name_in_bank": "test"
+            "name_in_bank": "change"
         },
         "basic_pay": 60000,
         "additions": 1500,
@@ -398,7 +398,7 @@
     },
     {
         "first_name": "address",
-        "last_name": "into test",
+        "last_name": "into change",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -426,26 +426,25 @@
         "rupyo_credit_limit": 15000,
         "advance_given": "0",
         "address": {
-            "address_1": "test",
-            "address_2": "test",
+            "address_1": "change",
+            "address_2": "change",
             "pincode": 222222,
-            "city": "test",
-            "district": "test",
-            "state": "test",
-            "country": "test"
+            "city": "change",
+            "district": "change",
+            "state": "change",
+            "country": "change"
         }
     },
     {
-        "first_name": "mobile test",
+        "first_name": "mobile change",
         "last_name": "into 2",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
-        "status": 3,
         "employee_id": 29593713569183,
-        "email": "sd2@yopmail.com",
+        "email": "sj55@yopmail.com",
         "mobile_number": 2222222222,
         "esi_no": "0",
         "uan": 34724682,
@@ -477,7 +476,7 @@
     },
     {
         "first_name": "salary",
-        "last_name": "test into2",
+        "last_name": "change into2",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -516,7 +515,7 @@
     },
     {
         "first_name": "aadhar",
-        "last_name": "test into4",
+        "last_name": "change into4",
         "gender": "F",
        "status": 1,
         "dob": "1998-10-10",
@@ -554,8 +553,8 @@
         }
     },
     {
-        "first_name": "PAN test",
-        "last_name": "Test",
+        "first_name": "PAN change",
+        "last_name": "change",
         "gender": "F",
        "status": 1,
         "dob": "1998-10-10",
@@ -574,7 +573,7 @@
             "ifsc_code": "UBIN0566608",
             "branch_name": "ADHARTAL",
             "bank_account_type": "O",
-            "name_in_bank": "test"
+            "name_in_bank": "change"
         },
         "basic_pay": 60000,
         "additions": 1500,
@@ -594,7 +593,7 @@
     },
     {
         "first_name": "basic pay",
-        "last_name": "Test",
+        "last_name": "change",
         "gender": "F",
        "status": 1,
         "dob": "1998-10-10",
@@ -633,7 +632,7 @@
     },
     {
         "first_name": "addtions",
-        "last_name": "test",
+        "last_name": "change",
        "status": 1,
         "gender": "F",
         "dob": "1998-10-10",
@@ -673,7 +672,7 @@
     },
     {
         "first_name": "deductions",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -713,7 +712,7 @@
     {
       
         "first_name": "net pay",
-        "last_name": "Test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -724,7 +723,6 @@
         "mobile_number": 9022222117,
         "esi_no": "0",
         "uan": 34724682,
-        "status": 4,
         "employee_aadhaar": 397910056536,
         "pan_card": "AWPGL5820L",
         "bank_details": {
@@ -753,7 +751,7 @@
     },
     {
         "first_name": "credit limit",
-        "last_name": "test into 100",
+        "last_name": "change into 100",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -833,7 +831,7 @@
     },
     {
         "first_name": "city",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -871,13 +869,13 @@
     },
     {
         "first_name": "state",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
         "employee_id": 29593713569183,
-        "email": "sd7@yopmail.com",
+        "email": "sd77@yopmail.com",
         "mobile_number": 9022222121,
         "esi_no": "0",
         "uan": 34724682,
@@ -909,7 +907,7 @@
     },
     {
         "first_name": "district",
-        "last_name": "Test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -947,7 +945,7 @@
     },
     {
         "first_name": "country",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -985,13 +983,13 @@
     },
     {
         "first_name": "email",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
         "cibil_score": 810,
         "employee_id": 29593713569183,
-        "email": "emailtest@yopmail.com",
+        "email": "emailchange@yopmail.com",
         "mobile_number": 9022222125,
         "esi_no": "0",
        "status": 1,
@@ -1063,7 +1061,7 @@
     },
     {
         "first_name": "number",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
        "status": 1,
         "dob": "1998-10-10",
@@ -1091,7 +1089,7 @@
         "rupyo_credit_limit": 15000,
         "advance_given": "0",
         "address": {
-            "address_1": " jai prakash nagar",
+            "address_1": "jai prakash nagar",
             "address_2": "",
             "pincode": 482404,
             "city": "JABALPUR",
@@ -1102,7 +1100,7 @@
     },
     {
         "first_name": "Same number",
-        "last_name": "Test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -1141,7 +1139,7 @@
     },
     {
         "first_name": "bank name",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
        "status": 1,
@@ -1180,7 +1178,7 @@
     },
     {
         "first_name": "account number",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -1221,7 +1219,7 @@
     },
     {
         "first_name": "branch",
-        "last_name": "test",
+        "last_name": "change",
         "gender": "F",
         "dob": "1998-10-10",
         "father_mother_name": "SURENDRA VISHWAKARMA",
@@ -1236,7 +1234,7 @@
             "bank_name": "UNION BANK",
             "account_number": 6521636660058,
             "ifsc_code": "UBIN0566608",
-            "branch_name": "Test",
+            "branch_name": "change",
             "bank_account_type": "O",
             "name_in_bank": "SOMYA"
         },
@@ -1245,7 +1243,7 @@
         "net_deductions": 20,
         "net_pay": 30000,
         "rupyo_credit_limit": 15000,
-        "advance_given": "0",
+        "advance_given": 0,
         "address": {
             "address_1": "jai prakash nagar",
             "address_2": "",
