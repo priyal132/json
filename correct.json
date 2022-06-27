@@ -219,10 +219,10 @@
             "bank_account_type": "O",
             "name_in_bank": "Test"
         },
-        "basic_pay": 100000,
-        "additions": 10000,
-        "net_deductions": 200,
-        "net_pay": 2000000,
+        "basic_pay": 10000000000,
+        "additions": 10000000,
+        "net_deductions": 200000,
+        "net_pay": 2000000000000,
         "rupyo_credit_limit": 120000,
         "advance_given": "0",
         "address": {
