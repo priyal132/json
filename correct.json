@@ -2,9 +2,9 @@
    
     {
         "first_name": "updat27_1",
-        "last_name": "status&FMname",
-        "gender": "F",
-        "dob": "1998-10-10",
+        "last_name": "status",
+        "gender": "M",
+        "dob": "1998-11-11",
         "status": 2,
         "father_mother_name": "test",
         "cibil_score": 0,
